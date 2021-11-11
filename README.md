@@ -1,4 +1,6 @@
-# James Downs
+<p>
+  <h1 align="center"><b>Hi there, I'm James <img src="automationBlue.png" alt="" width="30"></h1>
+</p>
 ### About Me:
 - 14+ years of IT experience
 - Started out as desktop support
