@@ -4,8 +4,10 @@
 <p align="center">
 <a href="https://www.codewars.com/users/jrdowns"><img src="https://img.shields.io/badge/-CodeWars-%23B1361E?style=flat&logo=codewars&logoColor=white" alt="CodeWars" /></a>&nbsp;
 <a href="https://www.kaggle.com/jamesdowns"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;
+<a href="https://linkedin.com/in/jrdowns"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
+
 ### About Me:
 - 14+ years of IT experience
 - Started out as desktop support
