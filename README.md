@@ -1,6 +1,12 @@
 <p>
   <h1 align="center"><b>Hi there, I'm James <img src="automationBlue.png" alt="" width="30"></h1>
 </p>
+<p align="center">
+<a href="https://www.codewars.com/users/jrdowns"><img src="https://img.shields.io/badge/-CodeWars-%23B1361E?style=flat&logo=codewars&logoColor=white" alt="CodeWars" /></a>&nbsp;
+<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
+</p>
+<br />
 ### About Me:
 - 14+ years of IT experience
 - Started out as desktop support
