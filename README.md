@@ -4,13 +4,13 @@
 <br />
 
 ### About Me:
-- 14+ years of IT experience
-- Started out as desktop support
-- Currently working as a Systems Administrator over Identity Management
+- 15+ years of IT experience
+- Currently working as a Platform Engineer managing web hosting
 
 ### Interested In:
 - Python
 - Process Automation
+- DevOps
 - Machine Learning/Deep Learning
 - TensorFlow
 
