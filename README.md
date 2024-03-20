@@ -3,7 +3,7 @@
 </p>
 <br />
 
-### About Me:
+## About Me:
 - 15+ years of IT experience
 - Currently working as a Platform Engineer managing web hosting
 
@@ -13,9 +13,6 @@
 - DevOps
 - Machine Learning/Deep Learning
 - TensorFlow
-
-### More of me:
-- LinkedIn: https://www.linkedin.com/in/jrdowns/
 
 <!---
 jrdowns/jrdowns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
